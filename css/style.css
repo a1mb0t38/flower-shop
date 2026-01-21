@@ -68,8 +68,8 @@
   background-image: repeating-linear-gradient(
     to right,
     rgba(255, 182, 193, 0.35) 0px,
-    rgba(255, 182, 193, 0.35) 40px,
-    transparent 40px,
-    transparent 80px
+    rgba(255, 182, 193, 0.35) 60px,
+    transparent 60px,
+    transparent 90px
   );
 }
